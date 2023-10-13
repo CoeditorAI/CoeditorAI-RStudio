@@ -1,0 +1,37 @@
+{
+  "input": {
+    "header_buttons-add_footer": 0,
+    "header_buttons-done": 0,
+    "header_buttons-restart": 0,
+    "header_buttons-scroll_bottom": 0,
+    "header_buttons-scroll_top": 0,
+    "panels": "CoeditorAI",
+    "quanda-q_and_a": null,
+    "settings-dark_mode": false,
+    "settings-style": "default",
+    "settings-temperature": 1,
+    "text_editor_1-copy": 0,
+    "text_editor_1-drop": 0,
+    "text_editor_1-paste": 0,
+    "text_editor_1-proofread": 0,
+    "text_editor_1-rewrite": 0,
+    "text_editor_1-translate": 0,
+    "text_editor_1-use_custom_prompt": 0
+  },
+  "output": {
+    "text_editor_1-input_text": {
+      "html": "<p>RStudio is not running.<\/p>\n",
+      "deps": [
+
+      ]
+    }
+  },
+  "export": {
+    "editors_counter": 1,
+    "editors_outputs": {
+      "text_editor_1": null
+    },
+    "last_output_text": "RStudio is not running.",
+    "session_id": "72d5139c4584f702d387e74e9cac20e7"
+  }
+}

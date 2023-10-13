@@ -1,0 +1,28 @@
+{
+  "input": {
+    "text_editor_1-rewrite": 1
+  },
+  "output": {
+    "text_editor_1-input_text": {
+      "html": "<p>Test original text<\/p>\n",
+      "deps": [
+
+      ]
+    },
+    "text_editor_2-input_text": {
+      "html": "<p>Test output text from shiny.testmode.<\/p>\n",
+      "deps": [
+
+      ]
+    }
+  },
+  "export": {
+    "editors_counter": 2,
+    "editors_outputs": {
+      "text_editor_1": "Test output text from shiny.testmode.",
+      "text_editor_2": null
+    },
+    "last_output_text": "Test output text from shiny.testmode.",
+    "session_id": "a2cdbd96df39bf78e32c3560b3579f5c"
+  }
+}

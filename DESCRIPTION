@@ -1,0 +1,48 @@
+Package: CoeditorAI
+Type: Package
+Title: Write Analytical Texts Faster that Read Better
+Version: 1.0.0
+Description: 'CoeditorAI' is a plugin that provides 
+    Artificial Intelligence (AI) / Large Language Models (LLM) support, 
+    allowing you to write and edit professional content faster 
+    and directly inside the 'RStudio IDE'. 
+    You can rewrite, proofread, and translate text while coding, 
+    all in one place. This plugin is perfect for Data Scientists 
+    who don't like wasting time on text editing and want to work faster, 
+    write better, and communicate their findings effectively.
+Authors@R: c(
+    person("Kamil", "Wais", , "kamil.wais@gmail.com", role = c("aut", "cre")),
+    person("Olesia", "Wais", , "olesia.wais@gmail.com", role = "aut"),
+    person("Kamil Wais InnowacjeSystemowe.pl", role = c("cph", "fnd"))
+  )
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    httptest2,
+    shinytest2,
+    testthat (>= 3.0.0),
+    withr
+Config/testthat/edition: 3
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
+    bsicons,
+    bslib (>= 0.5),
+    cli,
+    clipr,
+    httr2 (>= 1.0.0),
+    jsonlite,
+    markdown,
+    rlang,
+    rstudioapi (>= 0.15),
+    shiny (>= 1.8.0),
+    shinybusy,
+    shinyjs,
+    shinyvalidate,
+    shinyWidgets,
+    stringr
+Depends: 
+    R (>= 2.10)
+URL: https://coeditorai.com
+BugReports: https://github.com/CoeditorAI/CoeditorAI-RStudio/issues

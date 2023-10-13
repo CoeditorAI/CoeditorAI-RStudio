@@ -1,0 +1,47 @@
+{
+    "user_uid": [
+        "redacted"
+    ],
+    "email": [
+        "redacted"
+    ],
+    "email_verified": [
+        true
+    ],
+    "is_admin": [
+        false
+    ],
+    "hashed_cookie": [
+        "redacted"
+    ],
+    "two_fa_verified": [
+        false
+    ],
+    "session_uid": [
+        "redacted"
+    ],
+    "signed_in_as": [
+        null
+    ],
+    "roles": [
+        "free-trial"
+    ],
+    "created_at": [
+        "2023-12-08 08:07:48"
+    ],
+    "time_now": [
+        "2023-12-22 08:19:32"
+    ],
+    "since_created_days": [
+        14.0082
+    ],
+    "since_created_interval": [
+        1210304.9713
+    ],
+    "freetrial_days_limit": [
+        14
+    ],
+    "is_freetrial_valid": [
+        false
+    ]
+}

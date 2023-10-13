@@ -1,0 +1,32 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# CoeditorAI <a href="https://coeditorai.com"><img src="man/figures/logo.png" align="right" height="139" alt="CoeditorAI website" /></a>
+
+> Write Analytical Texts Faster That Read Better
+
+<!-- badges: start -->
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://cran.r-project.org/web/licenses/MIT)
+[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![R build status](https://github.com/CoeditorAI/CoeditorAI-RStudio/workflows/R-CMD-check/badge.svg)](https://github.com/CoeditorAI/CoeditorAI-RStudio/actions)
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+<!-- badges: end -->
+
+## Official Homepage & Documentation
+
+### https://coeditorai.com
+
+Installation instruction: https://coeditorai.com/#install
+

@@ -1,0 +1,4 @@
+Name: Coedit text
+Description: Edit selected text with CoeditorAI
+Binding: coedit_text
+Interactive: true

@@ -1,0 +1,13 @@
+.gadget-tabs {
+
+  background-color: inherit !important;
+}
+.button-label {
+  display: none;
+}
+
+@media (min-width: 700px) {
+  .button-label {
+    display: inline;
+  }
+}

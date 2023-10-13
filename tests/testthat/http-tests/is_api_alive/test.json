@@ -1,0 +1,15 @@
+{
+    "is_alive": [
+        true
+    ],
+    "versions": {
+        "api_version": [
+            "0.0.0.9020"
+        ],
+        "r_package": {
+            "devel": [
+                "0.1.0.9022"
+            ]
+        }
+    }
+}

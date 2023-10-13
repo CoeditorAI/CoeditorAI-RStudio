@@ -1,0 +1,21 @@
+{
+  "input": {
+    "text_editor_1-rewrite": 0
+  },
+  "output": {
+    "text_editor_1-input_text": {
+      "html": "<p>Test original text<\/p>\n",
+      "deps": [
+
+      ]
+    }
+  },
+  "export": {
+    "editors_counter": 1,
+    "editors_outputs": {
+      "text_editor_1": null
+    },
+    "last_output_text": "Test original text",
+    "session_id": "a2cdbd96df39bf78e32c3560b3579f5c"
+  }
+}
